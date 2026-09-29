@@ -43,4 +43,16 @@ h6 {
 }
 .carta_h3 {
     color: rgb(0, 68, 255);
+
+}
+footer {
+    background-color: rgb(30, 41, 59);
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h5 {
+    color: white;
+    font-weight: normal;
 }
